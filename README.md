@@ -7,8 +7,6 @@
 
 # Chrono Legacy Forge
 
-![Chrono Legacy Forge](https://via.placeholder.com/1200x400?text=Chrono+Legacy+Forge)
-
 ## 🏛️ Overview
 
 Chrono Legacy Forge is an immersive historical simulation game that allows players to experience pivotal moments in history through interactive storytelling and decision-making. Step into the shoes of influential historical figures and shape the course of history through your choices and strategies.
