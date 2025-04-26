@@ -4,6 +4,7 @@
 - Telegram - @vesper85
 
 !!!depolyment comming soon
+backend code - https://github.com/vesper85/chrono-legacy-backend
 
 # Chrono Legacy Forge
 
