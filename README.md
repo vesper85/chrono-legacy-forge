@@ -1,3 +1,10 @@
+
+# Me
+- Twitter - @beanbagjunkie
+- Telegram - @vesper85
+
+
+
 # Chrono Legacy Forge
 
 ![Chrono Legacy Forge](https://via.placeholder.com/1200x400?text=Chrono+Legacy+Forge)
